@@ -1,1 +1,49 @@
-beatfull
+# 무조건 게임부터 만들지 말고 선행 작업 먼저 할 것
+
+## 회원가입 / 로그인
+- Spring 회원가입 만들기 선행학습 필요
+- 소셜 로그인
+  - 구글, 페이스북, 카카오톡, 인스타 등등
+- 유/무료 회원 분기 처리 필요
+- 회원 관리 Server는 Spring
+
+## Stripe 결제 모듈 구현
+- 결제 Server는 Spring
+
+## html, css, js 전송용 Static Server
+- Static Server는 Spring
+
+## 모든 Server는 도커, 쿠버네티스, 카프카, NGINX
+- 로드벨런서, 캐시
+- Api 요청이 필요한 경우, 카프카 메시지 큐 구현 필요
+
+---
+---
+---
+
+## Progressive Web Apps 먼저 구현
+
+## Front-end는 vite Framework 사용
+- ES module
+- scss
+
+## Tone.js 선행학습 필요
+
+
+---
+---
+---
+
+## 강의
+### spling boot
+  - https://www.youtube.com/watch?v=NTZgPYlassE&list=PLbq5jHjpmq7q-Td2jOXtpf7SD5c53RqXh
+  - https://www.youtube.com/watch?v=AalcVuKwBUM
+  - https://www.youtube.com/watch?v=AalcVuKwBUM&list=PLlTylS8uB2fB1S7iKWrxUM22vzWMdUjns
+  - https://www.youtube.com/watch?v=ewslpCROKXY
+  - https://www.youtube.com/watch?v=TlWzEr4cXfc
+
+### Spring + react + login
+- https://www.youtube.com/watch?v=nMSFHreQdbU&list=PLJkjrxxiBSFDijahNi4XIzkD0l9jtwE8e
+
+### Spring 개념익히기
+- https://www.youtube.com/watch?v=AalcVuKwBUM
