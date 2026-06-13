@@ -47,3 +47,6 @@
 
 ### Spring 개념익히기
 - https://www.youtube.com/watch?v=AalcVuKwBUM
+
+### Spring boot 기초강의 몰아보기
+- https://youtu.be/7t6tQ4KV37g?t=14661
