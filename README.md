@@ -49,4 +49,4 @@
 - https://www.youtube.com/watch?v=AalcVuKwBUM
 
 ### Spring boot 기초강의 몰아보기
-- https://youtu.be/7t6tQ4KV37g?t=21059
+- https://www.youtube.com/watch?v=3Jp9kGDb01g&list=PLlTylS8uB2fA5PevGI6ARN6v-VQWmqaix&index=14
