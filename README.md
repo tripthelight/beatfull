@@ -53,3 +53,6 @@
 
 ### Spring boot 기초강의
 - https://youtu.be/yZzUxEp97Ho?list=PLOSNUO27qFbv95vD0Cc5Vwtro4vcMZGiy&t=212
+
+### Spring 로그인 구현
+- https://www.youtube.com/watch?v=nMSFHreQdbU&list=PLJkjrxxiBSFDijahNi4XIzkD0l9jtwE8e
