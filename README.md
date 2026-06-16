@@ -50,3 +50,6 @@
 
 ### Spring boot 기초강의 몰아보기
 - https://www.youtube.com/watch?v=3Jp9kGDb01g&list=PLlTylS8uB2fA5PevGI6ARN6v-VQWmqaix&index=14
+
+### Spring boot 기초강의
+- https://youtu.be/yZzUxEp97Ho?list=PLOSNUO27qFbv95vD0Cc5Vwtro4vcMZGiy&t=212
