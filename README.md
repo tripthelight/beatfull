@@ -57,6 +57,9 @@
 ### Spring 로그인 구현
 - https://www.youtube.com/watch?v=bY6F9JA8drs&list=PLJkjrxxiBSFDijahNi4XIzkD0l9jtwE8e&index=12
 
+### Sprite Payment 강좌
+- https://www.youtube.com/watch?v=BczS-wbxgp4
+
 ### PWA 강좌
 - https://www.youtube.com/watch?v=wVgmRVkekuA&list=PLG7te9eYUi7ug8s9KuhmTbO_9_6Etc-nJ&index=1
 - https://www.youtube.com/watch?v=aF8gHaIrGmU&list=PLkfUwwo13dlVFhhrSyC0OfbG_3UzReUO0
