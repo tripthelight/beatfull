@@ -34,6 +34,12 @@
 ---
 ---
 
+- login, payment, front 합쳐!
+
+---
+---
+---
+
 ## 강의
 ### spling boot
   - https://www.youtube.com/watch?v=NTZgPYlassE&list=PLbq5jHjpmq7q-Td2jOXtpf7SD5c53RqXh
@@ -59,6 +65,9 @@
 
 ### Sprite Payment 강좌
 - https://www.youtube.com/watch?v=BczS-wbxgp4
+
+### 무중단 배포 강좌
+- https://www.youtube.com/watch?v=c2lC3qc7UwY&list=PLcyPfaKZ8Ykg4OkqAhFgwLvASs5T_-UjE
 
 ### PWA 강좌
 - https://www.youtube.com/watch?v=wVgmRVkekuA&list=PLG7te9eYUi7ug8s9KuhmTbO_9_6Etc-nJ&index=1
