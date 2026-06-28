@@ -10,6 +10,8 @@
 ## Stripe 결제 모듈 구현
 - 결제 Server는 Spring
 
+## nginx 로드벨런싱, 쿠키
+
 ## html, css, js 전송용 Static Server
 - Static Server는 Spring
 
